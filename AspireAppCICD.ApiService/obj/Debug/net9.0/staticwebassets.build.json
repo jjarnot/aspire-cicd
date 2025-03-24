@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Ym/JUETtzo/QkqR+S1pk6Ah+QPZ4iW+lhB03CrkT+Pk=",
+  "Source": "AspireAppCICD.ApiService",
+  "BasePath": "_content/AspireAppCICD.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+C:\Github\aspire-cicd\AspireAppCICD.ServiceDefaults\bin\Debug\net9.0\AspireAppCICD.ServiceDefaults.deps.json
+C:\Github\aspire-cicd\AspireAppCICD.ServiceDefaults\bin\Debug\net9.0\AspireAppCICD.ServiceDefaults.dll
+C:\Github\aspire-cicd\AspireAppCICD.ServiceDefaults\bin\Debug\net9.0\AspireAppCICD.ServiceDefaults.pdb
+C:\Github\aspire-cicd\AspireAppCICD.ServiceDefaults\obj\Debug\net9.0\AspireAppCICD.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Github\aspire-cicd\AspireAppCICD.ServiceDefaults\obj\Debug\net9.0\AspireAppCICD.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\aspire-cicd\AspireAppCICD.ServiceDefaults\obj\Debug\net9.0\AspireAppCICD.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Github\aspire-cicd\AspireAppCICD.ServiceDefaults\obj\Debug\net9.0\AspireAppCICD.ServiceDefaults.AssemblyInfo.cs
+C:\Github\aspire-cicd\AspireAppCICD.ServiceDefaults\obj\Debug\net9.0\AspireAppCICD.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Github\aspire-cicd\AspireAppCICD.ServiceDefaults\obj\Debug\net9.0\AspireAppCICD.ServiceDefaults.dll
+C:\Github\aspire-cicd\AspireAppCICD.ServiceDefaults\obj\Debug\net9.0\refint\AspireAppCICD.ServiceDefaults.dll
+C:\Github\aspire-cicd\AspireAppCICD.ServiceDefaults\obj\Debug\net9.0\AspireAppCICD.ServiceDefaults.pdb
+C:\Github\aspire-cicd\AspireAppCICD.ServiceDefaults\obj\Debug\net9.0\ref\AspireAppCICD.ServiceDefaults.dll
