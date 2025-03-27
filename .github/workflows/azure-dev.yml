@@ -43,6 +43,8 @@ jobs:
             --tenant-id "$Env:AZURE_TENANT_ID"
         shell: pwsh
 
+      - name: Disable dashboard
+        run: azd config set aspire.dashboard on
 
       - name: Provision Infrastructure
         run: azd provision --no-prompt --no-state
